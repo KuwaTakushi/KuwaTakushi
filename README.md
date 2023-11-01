@@ -1,6 +1,6 @@
 - 🔭 I’m independent developer and remote smart contract development engineer 
 - 💬 Ask me about blockchain or smart contract question: https://twitter.com/0xCTTTTTTT
-- 🤗 I develop Web3 project: 10+... (token, nft, dapp)
+- 🤗 I I helped develop Web3 project: 10+... (token, nft, dapp)
 - 🤓 Interesting experience：
   - CTF paradigm 2023(First time) rank: 204
  
