@@ -1,1 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=0XEvmLuna&theme=dark)](https://git.io/streak-stats)
+- 🔭 I’m remote smart contract development engineer
+- 💬 Ask me about blockchain、solidity、web3 and ether: https://twitter.com/0xCTTTTTTT
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumy7&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
