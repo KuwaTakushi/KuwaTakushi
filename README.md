@@ -9,6 +9,8 @@
 I may become the world's top white hat hacker within three years
 </div>
 
+![Header Banner](./profile.png)
+
 ---
 
 ### 💻 `./whoami`
