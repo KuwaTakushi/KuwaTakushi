@@ -1,39 +1,54 @@
-```md
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=root%400xKuwaTakushi%3A~%24+Smart+Contract+Security+Researcher;root%400xKuwaTakushi%3A~%24+Independent+Developer;root%400xKuwaTakushi%3A~%24+EVM+%2F+Solana+Research;root%400xKuwaTakushi%3A~%24+35%2B+Vulnerabilities+Found;root%400xKuwaTakushi%3A~%24+Future+Top-Tier+White+Hat+Hacker" alt="Hacker Terminal Typing" />
+
 # KuwaTakushi
 
-Independent developer & remote smart contract security researcher.
+**Independent developer & remote smart contract security researcher.**
 
-Focused on:
-- Smart Contract Security
-- EVM Internals
-- DeFi Exploitation
-- Rust / Solana Research
-- Protocol Architecture
-
-Helped develop 10+ Web3 projects including token, NFT and DeFi infrastructure.
-
-Found 35+ vulnerabilities across audits, competitions and personal security research.
-
-CTF experience:
-- Paradigm CTF 2023 — Rank #204 (first attempt)
-- blazCTF 2023 — Rank #69 (first attempt)
-
-Currently active on:
-- Code4rena  
-  https://code4rena.com/@KuwaTakushi
-
-- CodeHawks  
-  https://codehawks.cyfrin.io/profile/clzkbw32j001qs385mqb3le1i
-
-- Sherlock  
-  https://audits.sherlock.xyz/watson/kuwaTakush
-
-- Cantina  
-  https://cantina.xyz/u/KuwaTakushi
-
-Building toward becoming a world-class white-hat hacker within the next 3 years.
-
-<div align="left">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=KuwaTakushi&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=ffffff&icon_color=58a6ff&bg_color=0d1117&theme=github_dark" />
 </div>
-```
+
+---
+
+### 💻 `./whoami`
+
+- Focused on **Smart Contract Security**, **EVM internals**, **DeFi exploitation**, **protocol architecture**, **Rust**, and **Solana** research.
+- Helped develop **10+ Web3 projects** including tokens, NFTs, dApps and DeFi infrastructure.
+- Found **35+ vulnerabilities** across audits, competitions and independent security research.
+
+### 🚩 `./capture_the_flag`
+
+- **Paradigm CTF 2023** — Rank #204 *(first attempt)*
+- **blazCTF 2023** — Rank #69 *(first attempt)*
+
+### 🔍 `./audit_profiles`
+
+- [**Code4rena**](https://code4rena.com/@KuwaTakushi)
+- [**CodeHawks**](https://codehawks.cyfrin.io/profile/clzkbw32j001qs385mqb3le1i)
+- [**Sherlock**](https://audits.sherlock.xyz/watson/kuwaTakush)
+- [**Cantina**](https://cantina.xyz/u/KuwaTakushi)
+
+### ⚙️ `lifecycle.sol`
+
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+contract Hacker_0xKuwaTakushi {
+    bool public alive = true;
+
+    function execute() external {
+        while (alive) {
+            study();
+            audit();
+            exploit();
+            build();
+        }
+    }
+    
+    // Internal routines...
+    function study() internal {}
+    function audit() internal {}
+    function exploit() internal {}
+    function build() internal {}
+}
