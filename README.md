@@ -6,6 +6,7 @@
 
 **Independent developer & remote smart contract security researcher.**
 
+I may become the world's top white hat hacker within three years
 </div>
 
 ---
@@ -28,27 +29,3 @@
 - [**Sherlock**](https://audits.sherlock.xyz/watson/kuwaTakush)
 - [**Cantina**](https://cantina.xyz/u/KuwaTakushi)
 
-### ⚙️ `lifecycle.sol`
-
-```solidity
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.20;
-
-contract Hacker_0xKuwaTakushi {
-    bool public alive = true;
-
-    function execute() external {
-        while (alive) {
-            study();
-            audit();
-            exploit();
-            build();
-        }
-    }
-    
-    // Internal routines...
-    function study() internal {}
-    function audit() internal {}
-    function exploit() internal {}
-    function build() internal {}
-}
