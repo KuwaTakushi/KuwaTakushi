@@ -9,8 +9,6 @@
 I may become the world's top white hat hacker within three years
 </div>
 
-![Header Banner](./profile.png)
-
 ---
 
 ### 💻 `./whoami`
@@ -30,4 +28,8 @@ I may become the world's top white hat hacker within three years
 - [**CodeHawks**](https://codehawks.cyfrin.io/profile/clzkbw32j001qs385mqb3le1i)
 - [**Sherlock**](https://audits.sherlock.xyz/watson/kuwaTakush)
 - [**Cantina**](https://cantina.xyz/u/KuwaTakushi)
+
+---
+
+![Header Banner](./profile.png)
 
